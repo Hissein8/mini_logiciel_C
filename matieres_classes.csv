@@ -1,0 +1,36 @@
+code_classe,nom_classe,ref_matiere,libelle_matiere
+1,L1GLSIA,1,Algorithmique
+1,L1GLSIA,2,Programmation C
+1,L1GLSIA,3,Bases de données
+1,L1GLSIA,4,Systèmes Unix
+1,L1GLSIA,5,Développement Web
+1,L1GLSIA,6,Mathématiques discrètes
+1,L1GLSIA,7,Introduction aux réseaux
+1,L1GLSIA,8,Architecture des ordinateurs
+1,L1GLSIA,9,Analyse Mathématique
+1,L1GLSIA,10,Probabilités et Statistiques
+2,L1GLSIB,11,Sécurité Informatique
+2,L1GLSIB,12,Intelligence Artificielle
+2,L1GLSIB,13,Stage
+2,L1GLSIB,14,Anglais Technique
+2,L1GLSIB,15,Administration Systèmes
+2,L1GLSIB,16,Programmation Objet
+2,L1GLSIB,17,Cloud Computing
+2,L1GLSIB,18,Économie
+2,L1GLSIB,19,Big Data
+2,L1GLSIB,20,Méthodologie de Recherche
+3,L1GLSIC,11,Sécurité Informatique
+3,L1GLSIC,12,Intelligence Artificielle
+3,L1GLSIC,13,Stage
+3,L1GLSIC,14,Anglais Technique
+3,L1GLSIC,15,Administration Systèmes
+3,L1GLSIC,16,Programmation Objet
+3,L1GLSIC,17,Cloud Computing
+3,L1GLSIC,18,Économie
+3,L1GLSIC,19,Big Data
+3,L1GLSIC,20,Méthodologie de Recherche
+16,MASTER2B,17,Cloud Computing
+16,MASTER2B,18,Économie
+16,MASTER2B,19,Big Data
+16,MASTER2B,20,Méthodologie de Recherche
+15,MASTER2A,19,Big Data
